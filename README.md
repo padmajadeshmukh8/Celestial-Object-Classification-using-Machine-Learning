@@ -1,2 +1,2 @@
 # Celestial-Object-Classification-using-Machine-Learning
-ml project 
+Developed a celestial object classification system using XGBoost, Random Forest, SVM, KNN, Logistic Regression, and Decision Tree algorithms to classify Galaxies, Stars, and Quasars from over 100,000 astronomical observations. Performed data preprocessing, feature engineering, exploratory data analysis (EDA), redshift analysis, photometric feature extraction, feature scaling, PCA, and model evaluation, achieving 97.69% classification accuracy with the best-performing model.
